@@ -7,9 +7,9 @@ Welcome to the **Security-First Solana & Rust Mastery Roadmap**. As a blockchain
 This guide is built to be used alongside an AI companion (like Claude) acting as your personal, high-energy tutor. It is structured to take you from a complete novice to architecting secure, high-performance smart contracts on the Solana Virtual Machine (SVM), emphasizing strict memory safety, logic flaw detection, and the Anchor framework.
 
 ## 📑 Table of Contents
-1. [Roadmap 1: Rust from Scratch (The "CS50" Professor Path)](#roadmap-1-rust-from-scratch)
-2. [Roadmap 2: The Solana Ecosystem (Core SVM)](#roadmap-2-the-solana-ecosystem-core-svm)
-3. [Roadmap 3: Anchor Framework Mastery](#roadmap-3-anchor-framework-mastery)
+1. [Roadmap 1: Rust from Scratch (The "CS50" Professor Path)](https://github.com/SAMIR897/Roadmap_for_solana_with_100-_claude_Prompts/blob/main/Roadmap%201%3A%20Rust%20from%20Scratch.md)
+2. [Roadmap 2: The Solana Ecosystem (Core SVM)](https://github.com/SAMIR897/Roadmap_for_solana_with_100-_claude_Prompts/blob/main/Roadmap%202%3A%20The%20Solana%20Ecosystem.md)
+3. [Roadmap 3: Anchor Framework Mastery](https://github.com/SAMIR897/Roadmap_for_solana_with_100-_claude_Prompts/blob/main/Roadmap%203%3A%20Anchor%20Framework%20Mastery.md)
 <br>
 ## First of all the main Hero here (Claude)
  <hr>
