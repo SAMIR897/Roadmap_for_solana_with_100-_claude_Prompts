@@ -11,7 +11,7 @@ A complete roadmap with AI prompts for accelerating and efficient solana ecosyst
 <br>
 i> High Performance & Real-World Utility
 Most blockchains struggle with "The Trilemma" (balancing security, decentralization, and speed). Solana solves the speed component using Proof of History (PoH), allowing for 50,000+ transactions per second. Learning Solana means you are building for the future of high-frequency trading, real-time gaming, and global-scale decentralized physical infrastructure (DePIN).
-
+<br>
 
 ii> Unmatched Scalability: Solana’s Proof of History (PoH) solves the blockchain trilemma, delivering the transaction speeds necessary for real-world applications like high-frequency DeFi and DePIN.
 
