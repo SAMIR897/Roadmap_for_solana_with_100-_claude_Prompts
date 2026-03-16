@@ -1,0 +1,30 @@
+# Module 2: Solana Ecosystem Mastery (100 Prompts)
+
+## 2.1 The Parallel Machine (1-25)
+
+1. "Explain 'Proof of History' (PoH). How does it act as a global clock?"
+2. "Compare Solana to Ethereum. Why is sequential execution a bottleneck?"
+3. "What is the 'Sealevel' runtime? How does it run transactions in parallel?"
+4. "Explain 'Gulf Stream'. Why doesn't Solana have a mempool?"
+5. "What is 'Turbine'? How does it move data through a tree structure?"
+6. "Explain 'Cloudbreak'. How is the accounts database optimized?"
+7. "What is a 'Validator'? What role do they play in the cluster?"
+8. "Explain 'Staking' and 'Delegation'. How do I earn SOL by helping the network?"
+9. "What is an 'Epoch'? How often do leader schedules change?"
+10. "Explain 'Rent' and 'Rent-Exemption'. Why must accounts hold SOL to stay alive?"
+11. "How do I calculate the lamports needed for a 1KB account?"
+12. "What is a 'Lamport'? Write a script to convert 1 SOL to lamports."
+13. "Explain 'Transactions'. What is the 1232-byte packet limit?"
+14. "What are 'Instructions'? How do multiple instructions fit in one transaction?"
+15. "Explain 'Address Lookup Tables' (LUTs). How do they allow 64+ accounts?"
+16. "What is a 'Program'? Why are they called 'Executable Accounts'?"
+17. "Explain 'Data Accounts'. Why is code separated from data in Solana?"
+18. "What is the 'System Program'? What are its 12 base instructions?"
+19. "Explain 'Account Ownership'. Can a program change an account it doesn't own?"
+20. "What are 'Sysvars'? How do I access the current time (Clock) on-chain?"
+21. "Explain 'Devnet' vs 'Testnet' vs 'Mainnet'."
+22. "How do I use `solana airdrop`? Why doesn't it work on Mainnet?"
+23. "Explain 'Recent Blockhashes'. How do they prevent transaction replays?"
+24. "What is 'Transaction Simulation'? How does it predict failures?"
+25. "Explain 'Priority Fees'. How do I jump to the front of the line?"
+
